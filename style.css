@@ -15,9 +15,11 @@
 
 .menu{
     padding: 20px;
+    font-size: 11px;
+    text-decoration: none;
     background-color: #005883;
-    width: 100%;
     color: FFFFFF;
+    width: 100%;
 }
 
 .tabla{
