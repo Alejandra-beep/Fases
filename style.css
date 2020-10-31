@@ -16,7 +16,6 @@
 .menu{
     padding: 20px;
     font-size: 11px;
-    text-decoration: none;
     background-color: #005883;
     color: FFFFFF;
 }
@@ -24,11 +23,4 @@
 .tabla{
     width: 80%;
     margin: 40px;
-}
-.menu2{
-    padding: 20px;
-    font-size: 11px;
-    text-decoration: none;
-    background-color: #B3B3B3;
-    color: FFFFFF;
 }
